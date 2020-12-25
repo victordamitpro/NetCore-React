@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\dthoang.LDAP\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dthoang.LDAP\\.nuget\\packages"
+    ]
+  }
+}
